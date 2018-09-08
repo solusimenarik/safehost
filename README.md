@@ -1,0 +1,2 @@
+# safehost
+JS Safehost
